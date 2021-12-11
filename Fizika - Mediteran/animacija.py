@@ -1,7 +1,7 @@
 # Romano Žic
 # Ovo je bilo za projekt iz fizike,
 # Kod je užasan, napisan je što je brže bilo moguće,
-# Ukratko nije dobar primjer
+# Ukratko, nije dobar primjer
 
 from manim import *
 
